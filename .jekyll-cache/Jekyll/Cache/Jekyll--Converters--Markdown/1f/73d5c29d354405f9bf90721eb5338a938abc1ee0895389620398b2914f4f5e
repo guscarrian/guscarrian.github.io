@@ -1,0 +1,119 @@
+I"�<p><strong>JUST PRACTICING MARKDOWN</strong></p>
+
+<h1 id="heading">Heading</h1>
+<p>This is a line.<br />
+This is another line.</p>
+
+<p>Hola.<br />
+Hello.</p>
+
+<h2 id="adding-a-blockquote">Adding a blockquote</h2>
+<blockquote>
+  <p>Let’s try this.</p>
+</blockquote>
+
+<h2 id="blockquotes-with-multiple-paragraphs">Blockquotes with multiple paragraphs</h2>
+<blockquote>
+  <h3 id="ways-to-say-hi">Ways to say hi</h3>
+  <p><em>Hola</em></p>
+
+  <p><strong>Hello</strong></p>
+
+  <p>Hej</p>
+</blockquote>
+
+<h2 id="nested-blockquotes">Nested Blockquotes</h2>
+<blockquote>
+  <p>Hola means <strong><em>hello</em></strong> in Spanish</p>
+
+  <ul>
+    <li>Spanish</li>
+  </ul>
+</blockquote>
+
+<h2 id="lists">Lists</h2>
+<h3 id="ordered-lists">Ordered lists:</h3>
+<ol>
+  <li>Uno</li>
+  <li>Dos</li>
+  <li>Tres
+    <ol>
+      <li>Cuatro</li>
+    </ol>
+  </li>
+  <li>Cinco</li>
+</ol>
+
+<h3 id="unordered-lists">Unordered lists:</h3>
+<ul>
+  <li>Uno</li>
+  <li>Dos</li>
+  <li>Tres
+    <ul>
+      <li>Cuatro</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="unordered-lists-started-with-a-number">Unordered lists started with a number:</h3>
+<ul>
+  <li>1993. What a great year!</li>
+</ul>
+
+<h3 id="adding-other-elements-to-a-list">Adding other elements to a list:</h3>
+<ul>
+  <li>Hello</li>
+  <li>Good morning
+    <blockquote>
+      <p>English</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="code-blocks">Code blocks</h3>
+<ol>
+  <li>Hola</li>
+  <li>
+    <p>Buenos días</p>
+
+    <p><img src="/Desktop/kill.jpg" alt="testing pic" /></p>
+  </li>
+  <li>Buenas tardes</li>
+</ol>
+
+<h3 id="code">Code</h3>
+<p>At the command prompt, type <code class="language-plaintext highlighter-rouge">nano</code>.</p>
+
+<h3 id="escaping-backticks">Escaping backticks</h3>
+<p><code class="language-plaintext highlighter-rouge">Use `code` in your Markdown file.</code> – Doesn’t seem to work.</p>
+
+<h3 id="code-blocks-1">Code blocks</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;html&gt;
+    &lt;head&gt;
+    &lt;/head&gt;
+&lt;/html&gt;
+</code></pre></div></div>
+
+<h3 id="horizontal-rules">Horizontal Rules</h3>
+<hr />
+<hr />
+<hr />
+
+<h3 id="links">Links</h3>
+<p>My favorite webpage is <a href="https://github.com">GitHub</a>.</p>
+
+<h4 id="links-with-title">Links with title</h4>
+<p>My favorite website is <a href="https://google.com" title="The best provider of Internet hosting for software development and version control">GitHub</a>.</p>
+
+<h3 id="urls-and-email-addresses">URLs and Email Addresses</h3>
+<p><a href="https://www.markdownguide.org">https://www.markdownguide.org</a></p>
+
+<p><a href="mailto:fake@example.com">fake@example.com</a></p>
+
+<h3 id="formating-links">Formating links</h3>
+<p>I love supporting the <strong><a href="https://eff.org">EFF</a></strong>.</p>
+
+<p>This is the <em><a href="https://www.markdownguide.org">Markdown Guide</a></em>.</p>
+
+<p>See the section on <a href="#code"><code class="language-plaintext highlighter-rouge">code</code></a>.</p>
+:ET

@@ -1,0 +1,30 @@
+I"U<h1 id="heading">Heading</h1>
+<p>This is a line.<br />
+This is another line.</p>
+
+<p>Hola.<br />
+Hello.</p>
+
+<h2 id="adding-a-blockquote">Adding a blockquote</h2>
+<blockquote>
+  <p>Let’s try this.</p>
+</blockquote>
+
+<h2 id="blockquotes-with-multiple-paragraphs">Blockquotes with multiple paragraphs</h2>
+<blockquote>
+  <p><em>Hola</em></p>
+
+  <p><strong>Hello</strong></p>
+
+  <p>Hej</p>
+</blockquote>
+
+<h2 id="nested-blockquotes">Nested Blockquotes</h2>
+<blockquote>
+  <p>Hola means <strong><em>hello</em></strong> in Spanish</p>
+
+  <blockquote>
+    <p>Spanish</p>
+  </blockquote>
+</blockquote>
+:ET
